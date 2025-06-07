@@ -108,6 +108,8 @@ student-management-system/
 ├── README.md                            # 项目说明文档
 └── .gitignore                           # Git 忽略文件
 
+说明：如果这里你想编写界面的，实际上，也一样，你要在外界创建一个图形类，然后在这里初始化图形类即可。
+
 本项目采用 MIT License，允许自由使用、修改和分发。
 
 联系方式
